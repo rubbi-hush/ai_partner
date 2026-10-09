@@ -1,0 +1,2 @@
+# ai_partner
+用python语言实现的一个类似于deepseek的对话式AI智能伴侣。
